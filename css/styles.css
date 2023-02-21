@@ -1,0 +1,29 @@
+body {
+    margin: 0 auto;
+    background-color: #f8e8a6;
+}
+
+h1, p {
+    text-align: center;
+}
+
+p{
+    font-size: medium;
+    padding: 30px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    margin: 0 30px;
+    color: red;
+}
+
+.image {
+display: block;
+max-width: 80%;
+border-radius: 10px;
+margin: 30px auto;
+}
